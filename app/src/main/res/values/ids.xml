@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="stg" type="id">string</item>
+    <item name="num" type="id">string</item>
+    <item name="chr" type="id">string</item>
+    <item name="db" type="id">string</item>
+    <item name="lng" type="id">string</item>
+    <item name="floats" type="id">string</item>
+    <item name="bool" type="id">string</item>
+    <item name="btn" type="id">string</item>
+    <item name="getstg" type="id">string</item>
+    <item name="getnum" type="id">string</item>
+    <item name="getchr" type="id">string</item>
+    <item name="getlng" type="id">string</item>
+    <item name="getdb" type="id">string</item>
+    <item name="getfloats" type="id">string</item>
+</resources>
